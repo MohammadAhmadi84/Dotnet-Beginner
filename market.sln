@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "market", "market\market.csproj", "{24F7F169-4E27-4DF8-B60A-8939C686C9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Domain", "Market.Domain\Market.Domain.csproj", "{2B11F5F0-7CE9-4EE7-9190-FFE62CB54074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Application", "Market.Application\Market.Application.csproj", "{EB2146A7-38EC-4E4F-849C-81F10E3B98CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F7F169-4E27-4DF8-B60A-8939C686C9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F7F169-4E27-4DF8-B60A-8939C686C9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F7F169-4E27-4DF8-B60A-8939C686C9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F7F169-4E27-4DF8-B60A-8939C686C9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B11F5F0-7CE9-4EE7-9190-FFE62CB54074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B11F5F0-7CE9-4EE7-9190-FFE62CB54074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B11F5F0-7CE9-4EE7-9190-FFE62CB54074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B11F5F0-7CE9-4EE7-9190-FFE62CB54074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2146A7-38EC-4E4F-849C-81F10E3B98CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2146A7-38EC-4E4F-849C-81F10E3B98CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2146A7-38EC-4E4F-849C-81F10E3B98CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2146A7-38EC-4E4F-849C-81F10E3B98CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
